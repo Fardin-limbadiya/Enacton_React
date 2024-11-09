@@ -7,6 +7,9 @@ This project is a React-based web application that allows users to browse, filte
 - Sort stores by name, popularity, and cashback amount.
 - Bookmark favorite stores with local storage support.
 
+## Video Link
+- https://app.usebubbles.com/ssthBcVFGSr9Xnerm2yZMd
+
 ## Installation
 To set up the project locally, follow these steps:
 
